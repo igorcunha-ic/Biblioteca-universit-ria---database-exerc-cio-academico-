@@ -103,6 +103,10 @@ Durante a atividade foram utilizados diversos recursos do PostgreSQL:
 * `TRUNCATE`
 * `SERIAL`
 * Tipos como `VARCHAR`, `INTEGER`, `DATE`, `BOOLEAN` e `TEXT`
+* `UPDATE´
+* ´INSERT´
+* `DELETE`
+* `WHERE`
 
 ## 📌 Alterações realizadas
 
@@ -115,7 +119,9 @@ Além da criação inicial das tabelas, a atividade também envolve modificaçõ
 * Renomeação da tabela de transações de empréstimo;
 * Remoção de uma coluna;
 * Exclusão de uma tabela;
-* Limpeza dos registros de uma tabela.
+* Limpeza dos registros de uma tabela;
+* adição de valores;
+* atualizações em valores inseridos.
 
 ## 💻 Tecnologias
 
