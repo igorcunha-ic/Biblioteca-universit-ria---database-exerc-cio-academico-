@@ -103,8 +103,8 @@ Durante a atividade foram utilizados diversos recursos do PostgreSQL:
 * `TRUNCATE`
 * `SERIAL`
 * Tipos como `VARCHAR`, `INTEGER`, `DATE`, `BOOLEAN` e `TEXT`
-* `UPDATE´
-* ´INSERT´
+* `UPDATE`
+* `INSERT`
 * `DELETE`
 * `WHERE`
 
